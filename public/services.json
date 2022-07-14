@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Customized Planning",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-26-481x374.jpg",
+        "price": 22,
+        "details": "Customized training plans are tailored to meet your specific goals, while maximizing results and minimizing injuries."
+    },
+    {
+        "id": 2,
+        "serviceName": "Analysis Working Process",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-27-481x374.jpg",
+        "price": 29,
+        "details": "Certified personal trainer identify your specific fitness needs and create a plan for you to efficiently and effectively…"
+    },
+    {
+        "id": 3,
+        "serviceName": "Coaching Environment",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-24-481x374.jpg",
+        "price": 30,
+        "details": "As your coach, I ensure that you execute each exercise properly to maximize results and minimize injury."
+    },
+    {
+        "id": 4,
+        "serviceName": "Research Human Body Groming",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-23-481x374.jpg",
+        "price": 20,
+        "details": "I take pride in keeping up to speed on the latest science and technology information associated with health, exercise."
+    },
+    {
+        "id": 5,
+        "serviceName": "Results Measurements",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-26-481x374.jpg",
+        "price": 15,
+        "details": "Every 6-8 weeks (depending on your program), I provide a comprehensive progress report that shows your."
+    },
+    {
+        "id": 6,
+        "serviceName": "Organization",
+        "picture": "http://alex-stone.themerex.net/wp-content/uploads/2017/05/image-25-481x374.jpg",
+        "price": 25,
+        "details": "Each workout is organized and planned prior to your appointment, so that you arrive at my own studio."
+    }
+]
